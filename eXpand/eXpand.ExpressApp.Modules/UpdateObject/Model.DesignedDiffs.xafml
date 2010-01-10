@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application>
+	<BOModel>
+		<Class Name="eXpand.ExpressApp.ModelArtifactState.Security.Permissions.ActionsStatePermission">
+			<Member Name="ActionId" AllowEdit="False" />
+		</Class>
+	</BOModel>
+	<Options UseServerMode="True" />
+	<SchemaModules>
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.HideActionsViewController" Version="9.1.5.0" />
+		<SchemaModule Name="DevExpress.ExpressApp.SystemModule.ShowNavigationItemController" Version="9.1.5.0" />
+		<SchemaModule Name="SystemModule" Version="9.1.5.0" />
+	</SchemaModules>
+</Application>
